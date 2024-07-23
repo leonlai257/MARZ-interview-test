@@ -162,7 +162,7 @@ You must replace all of the product photo urls with real photo urls (you can use
 
 To submit the solution please email `aadeyeye@marzvfx.com` with a link to your github repo with the implemented task. For the email subject please specify your full name (first and last name) as well as the roll you are applying for
 
-#### Steps to setup the new micro-service
+## Submission: Steps to setup the new micro-service
 1. go to the root of the `api.products` directory
 ```Bash
 cd api.products
